@@ -4,5 +4,5 @@ Projeto com o objetivo de gerar um ebook digital sobre a necessidade da cidade d
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [MidJourneyfree.ai](https://[www.midjourney.com/app/](https://www.midjourneyfree.ai/user/image-generator))
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
